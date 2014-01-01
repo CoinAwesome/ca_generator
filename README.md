@@ -1,2 +1,2 @@
-CA-Generator
+ca_generator
 ============
